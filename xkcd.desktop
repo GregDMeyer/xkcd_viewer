@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=xkcd
+Exec=/home/greg/Dropbox/Code/Python/xkcd/run.py
+Icon=/home/greg/Dropbox/Code/Python/xkcd/icon.svg
+Terminal=false
+Type=Application
